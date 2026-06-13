@@ -1,0 +1,25 @@
+{
+  "version": "sample-2026-06-13",
+  "source": "LOCALDATA(localdata.go.kr) 음식점 인허가",
+  "note": "공공 개방데이터. 평점·리뷰 미포함(런타임 노이즈 read 전용).",
+  "shards": [
+    {
+      "sido": "11",
+      "name": "서울특별시",
+      "file": "11.json.gz",
+      "count": 4,
+      "bytes": 364,
+      "sha256": "921f686a631a4c5d10d8e84ca969a336bb838a2a68a88f2d4adc39f5e49c8b5e",
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/sample-2026-06-13/11.json.gz"
+    },
+    {
+      "sido": "26",
+      "name": "부산광역시",
+      "file": "26.json.gz",
+      "count": 2,
+      "bytes": 246,
+      "sha256": "ffeeabcc041fa6651027470a231e44dbe89a8d3b03a7e4057326accb9f448e1c",
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/sample-2026-06-13/26.json.gz"
+    }
+  ]
+}
