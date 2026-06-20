@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-16",
+  "version": "2026-06-20",
   "source": "LOCALDATA(localdata.go.kr) 음식점 인허가",
   "note": "공공 개방데이터. 평점·리뷰 미포함(런타임 노이즈 read 전용).",
   "shards": [
@@ -10,7 +10,7 @@
       "count": 119204,
       "bytes": 4391093,
       "sha256": "523f15f00b09b79ad7d81de2807d2dbb76169bf85898a8254329784179b1ba90",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/11.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/11.json.gz"
     },
     {
       "sido": "26",
@@ -19,7 +19,7 @@
       "count": 42067,
       "bytes": 1439727,
       "sha256": "fa8b8730d9fa83eee96f698b4d3f7fc0ef0e98cefd737c5c92371f47c82bf41c",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/26.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/26.json.gz"
     },
     {
       "sido": "27",
@@ -28,7 +28,7 @@
       "count": 29285,
       "bytes": 1011802,
       "sha256": "229820bd977ebc3f3c78427463c2f17000d5aede57a1d8f44c9fa95731cfbdd2",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/27.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/27.json.gz"
     },
     {
       "sido": "28",
@@ -37,7 +37,7 @@
       "count": 31116,
       "bytes": 1164403,
       "sha256": "99d808423adaf636d563f4e4d3067495e88e4a88ebf5dc9440bebb5b845651e4",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/28.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/28.json.gz"
     },
     {
       "sido": "29",
@@ -46,7 +46,7 @@
       "count": 17253,
       "bytes": 600227,
       "sha256": "da7fcd61cf9243cbb398ae5da7aeb1ae0b314f9aa1d3a2d7613be8e5b437f55d",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/29.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/29.json.gz"
     },
     {
       "sido": "30",
@@ -55,7 +55,7 @@
       "count": 18927,
       "bytes": 669191,
       "sha256": "22474be9b0082fcf6b741d078862b4171a4ab0ea672f027d06bb6aa22dbe9cf5",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/30.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/30.json.gz"
     },
     {
       "sido": "31",
@@ -64,7 +64,7 @@
       "count": 14794,
       "bytes": 500863,
       "sha256": "720f313bc18b1eac67e5f905d185208dbf43eeb75bb7acf879010f475f92eebd",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/31.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/31.json.gz"
     },
     {
       "sido": "36",
@@ -73,7 +73,7 @@
       "count": 3789,
       "bytes": 149186,
       "sha256": "7c604c90f3406d90a8b7baeeb8bdba42b12fad400e6d80ff2249e90723d7b45f",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/36.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/36.json.gz"
     },
     {
       "sido": "41",
@@ -82,7 +82,7 @@
       "count": 141281,
       "bytes": 5496175,
       "sha256": "3d8181e0f71748ba105d529fcbf82a7c0c1d3baa83ecf744561a73a166a44f6c",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/41.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/41.json.gz"
     },
     {
       "sido": "43",
@@ -91,7 +91,7 @@
       "count": 25306,
       "bytes": 902571,
       "sha256": "62ccda43fac5fd406e8365d8579978c7feb7efa7ca5080d02e18d3c269deab9d",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/43.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/43.json.gz"
     },
     {
       "sido": "44",
@@ -100,7 +100,7 @@
       "count": 32746,
       "bytes": 1122933,
       "sha256": "e69a954082a8371a60cb201f4ee2aed60614678e206e56ebae7e7adef6812af0",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/44.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/44.json.gz"
     },
     {
       "sido": "46",
@@ -109,7 +109,7 @@
       "count": 28487,
       "bytes": 940665,
       "sha256": "6b21b717ff378920fb8fc74da8ec35e04e8b9f7da70fdf31fdf9471cbf12de18",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/46.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/46.json.gz"
     },
     {
       "sido": "47",
@@ -118,7 +118,7 @@
       "count": 41491,
       "bytes": 1396967,
       "sha256": "10206c8fc17803f04de323700af8e647a3d00adaf09602f1daef707d449452c3",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/47.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/47.json.gz"
     },
     {
       "sido": "48",
@@ -127,7 +127,7 @@
       "count": 48824,
       "bytes": 1793657,
       "sha256": "855592d3ab559087167030716976a179489f1f8db0e1c65828ff265048a6ffe2",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/48.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/48.json.gz"
     },
     {
       "sido": "50",
@@ -136,7 +136,7 @@
       "count": 15654,
       "bytes": 563234,
       "sha256": "c14549299e67475884f0583f552702c3511c127ab480f34586e5e5403fa938c2",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/50.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/50.json.gz"
     },
     {
       "sido": "51",
@@ -145,7 +145,7 @@
       "count": 31189,
       "bytes": 1035860,
       "sha256": "419d04387ecd20b44475fdfc7534e5a19d68965b754dda0a7403e6655b9c6bbe",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/51.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/51.json.gz"
     },
     {
       "sido": "52",
@@ -154,7 +154,7 @@
       "count": 24989,
       "bytes": 857693,
       "sha256": "6165745ce4747cbdb3f25bf48ce08da1380c2a62fb1351535debcaf5a4c028bc",
-      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-16/52.json.gz"
+      "url": "https://github.com/hexisteme/matple-catalog-snapshots/releases/download/2026-06-20/52.json.gz"
     }
   ]
 }
